@@ -4,4 +4,4 @@ Projeto simples, para testar o efeito parallax!
 
 ##
 
-<a href="#">Acesse aqui</a>
+<a href="https://nathanfabio.github.io/projeto-cordel/">Acesse aqui</a>
